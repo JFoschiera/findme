@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat|Source+Code+Pro");
+@import url(components/avatar.css);
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/container.css);
+@import url(components/cards.css);
+
+
+
+body{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 16px;
+  margin: 0px 0px 25px 0px;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-weight: lighter;
+}
+
+a{
+  text-decoration: none;
+}
+
+.cities-in h2{
+  text-align: center;
+  font-size: 35px;
+  padding: 20px 0px 0px 0px;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+
+body{
+  padding-bottom: 50px
+}
+
+
