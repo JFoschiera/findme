@@ -1,3 +1,3 @@
 HTML and CSS practicing
 
-https://jfoschiera.github.io/flatmatch/
+https://jfoschiera.github.io/my-flatmatch/
